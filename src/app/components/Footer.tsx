@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { Phone, MapPin, Clock, Mail } from "lucide-react";
-
+//test
 export function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300">
